@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**rgbaldov/rgbaldov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Renann!
+## Profession/Role
+- University Professor
+- Data Analyst
+- Programmer
+## Top Skills & Technologies
+- Python
+- Machine Learning
+- Artificial Intelligence (AI)
+## Social Links
+- [LinkedIn](https://www.linkedin.com/in/renann-baldovino-926751233)
+- [Facebook](https://web.facebook.com/renann.baldovino)  ---  Feel free to connect!
