@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Renann!
 ## Profession/Role
-- University Professor
-- Data Analyst
-- Programmer
+- University Professor (teaches robotics, AI, programming)
+- Data Analyst (statistics, machine learning)
+- Programmer (OOP, functional)
 ## Top Skills & Technologies
-- Python
-- Machine Learning
-- Artificial Intelligence (AI)
+- Mechatronics & Robotics
+- AI & Machine Learning
 ## Social Links
 - [LinkedIn](https://www.linkedin.com/in/renann-baldovino-926751233)
 - [Facebook](https://web.facebook.com/renann.baldovino)
