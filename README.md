@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Renann!
 ## Profession/Role
-- University Professor (teaches robotics, AI, programming)
+- Academic Faculty & Researcher (teaches robotics, AI, programming)
 - Data Analyst (statistics, machine learning)
 - Programmer (OOP, functional)
 ## Top Skills & Technologies
