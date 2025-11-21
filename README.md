@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Renann!
+# Hi, I'm Renann!
 ## Profession/Role
 - Academic Faculty & Researcher (teaches robotics, AI, programming)
   
