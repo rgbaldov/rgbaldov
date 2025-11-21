@@ -10,12 +10,12 @@
 
   - Affiliate Scholar, [Dr. Andrew L. Tan Data Science Institute (ALTDSI)](https://altdsi.dlsu.edu.ph/)
 
-  - Dougherist, [Gabi Cafe](https://www.instagram.com/gabicafeph/)
 - Data Analyst (statistics, machine learning)
 - Programmer (OOP, functional)
 ## Top Skills & Technologies
 - Mechatronics & Robotics
 - AI & Machine Learning
+- Dougherist @ [Gabi Cafe](https://www.instagram.com/gabicafeph/)
 ## Social Links
 - [LinkedIn](https://www.linkedin.com/in/renann-baldovino-926751233)
 - [Facebook](https://web.facebook.com/renann.baldovino)
