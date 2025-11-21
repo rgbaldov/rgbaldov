@@ -4,9 +4,9 @@
   
   - Assoc. Professor & Research Fellow, [Department of Biomedical, Manufacturing, and Robotics Engineering (DBMRE)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)
 
-  - Researcher, [Evelyn D. Ang – Institute of Biomedical Engineering and Health Technologies (EDA-IBEHT)](https://www.dlsu.edu.ph/research/research-centers/ibeht/)
+  - Faculty Researcher, [Evelyn D. Ang – Institute of Biomedical Engineering and Health Technologies (EDA-IBEHT)](https://www.dlsu.edu.ph/research/research-centers/ibeht/)
 
-  - Researcher, [Center for Engineering and Sustainable Development Research (CESDR)](https://www.dlsu.edu.ph/research/research-centers/cesdr/)
+  - Faculty Researcher, [Center for Engineering and Sustainable Development Research (CESDR)](https://www.dlsu.edu.ph/research/research-centers/cesdr/)
 
   - Affiliate Scholar, [Dr. Andrew L. Tan Data Science Institute (ALTDSI)](https://altdsi.dlsu.edu.ph/)
 
