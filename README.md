@@ -2,13 +2,15 @@
 ## Profession/Role
 - Academic Faculty & Researcher (teaches robotics, AI, programming)
   
-  Assoc. Professor & Research Fellow, [Department of Biomedical, Manufacturing, and Robotics Engineering (DBMRE)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)
+  - Assoc. Professor & Research Fellow, [Department of Biomedical, Manufacturing, and Robotics Engineering (DBMRE)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)
 
-  Researcher, [Evelyn D. Ang – Institute of Biomedical Engineering and Health Technologies (EDA-IBEHT)](https://www.dlsu.edu.ph/research/research-centers/ibeht/)
+  - Researcher, [Evelyn D. Ang – Institute of Biomedical Engineering and Health Technologies (EDA-IBEHT)](https://www.dlsu.edu.ph/research/research-centers/ibeht/)
 
-  Researcher, [Center for Engineering and Sustainable Development Research (CESDR)](https://www.dlsu.edu.ph/research/research-centers/cesdr/)
+  - Researcher, [Center for Engineering and Sustainable Development Research (CESDR)](https://www.dlsu.edu.ph/research/research-centers/cesdr/)
 
-  Affiliate Scholar, [Dr. Andrew L. Tan Data Science Institute (ALTDSI)](https://altdsi.dlsu.edu.ph/)
+  - Affiliate Scholar, [Dr. Andrew L. Tan Data Science Institute (ALTDSI)](https://altdsi.dlsu.edu.ph/)
+
+  - Dougherist, [Gabi Cafe](https://www.instagram.com/gabicafeph/)
 - Data Analyst (statistics, machine learning)
 - Programmer (OOP, functional)
 ## Top Skills & Technologies
