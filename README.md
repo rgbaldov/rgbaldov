@@ -10,7 +10,7 @@
 
   - Affiliate Scholar, [Dr. Andrew L. Tan Data Science Institute (ALTDSI)](https://altdsi.dlsu.edu.ph/)
 
-  - Industrial Trainer & Facilitator, [School of Lifelong Learning (SoLL)](https://altdsi.dlsu.edu.ph/](https://www.dlsu.edu.ph/soll/)
+  - Industrial Trainer & Facilitator, [School of Lifelong Learning (SoLL)](https://www.dlsu.edu.ph/soll/)
 
 - Data Analyst (statistics, machine learning)
 - Programmer (OOP, functional)
